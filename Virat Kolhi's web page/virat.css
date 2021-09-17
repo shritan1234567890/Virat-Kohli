@@ -1,0 +1,26 @@
+ #KOHLI {
+     background : linear-gradient( to top right,blue,green,red,purple,orange,yellow);
+     height : 600px ;
+     text-align : center;
+ }
+ #virat {
+     width : 300px;
+     height : 250px;
+     border-radius : 100px ;
+     margin-top : 100px ;
+ }
+ .menu {
+list-style: none ;
+cursor : pointer ;
+right : 50px ;
+position : fixed ;
+ }
+ .link {
+     float : left ;
+     font-family : fantasy ;
+     font-size : 20px ;
+     padding : 5px 9px ;
+ }
+ h1 {
+    font-family: 'Inconsolata', monospace;
+ }
